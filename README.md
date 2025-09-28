@@ -87,8 +87,3 @@ If no file is provided, a default input file is used.
 * [Online Decathlon Calculator](http://www.decathlon2000.com/884/decathlon-points-calculator/)
 
 ---
-
-## Author
-
-Fabio Rizzello
-📧 [fabio.rizzello@tiscali.it](mailto:fabio.rizzello@tiscali.it)
