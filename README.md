@@ -52,9 +52,7 @@ mvn exec:java -Dexec.mainClass="calculator.gui.DecathlonFrame"
 ### 2. Clean, compile, and run tests
 
 ```bash
-mvn clean
-mvn compile
-mvn test
+mvn clean; mvn compile; mvn test
 ```
 
 ### 3. Generate random participants
@@ -72,6 +70,14 @@ mvn exec:java -Dexec.mainClass="main.Application" -Dexec.args="</path/to/your/fi
 ```
 
 If no file is provided, a default input file is used.
+
+---
+
+## Screenshots
+
+* ![Swing Calculator](https://raw.githubusercontent.com/FA810/DecathlonScoringSystem/blob/master/decathlon.png)
+* ![Web UI Ranking View](https://raw.githubusercontent.com/FA810/DecathlonScoringSystem/blob/master/webUI_ranking.png)
+
 
 ---
 
