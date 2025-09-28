@@ -75,8 +75,8 @@ If no file is provided, a default input file is used.
 
 ## Screenshots
 
-![Swing Calculator](https://raw.githubusercontent.com/FA810/DecathlonScoringSystem/blob/master/decathlon.png)
-![Web UI Ranking View](https://raw.githubusercontent.com/FA810/DecathlonScoringSystem/blob/master/webUI_ranking.png)
+![Swing Calculator](https://raw.githubusercontent.com/FA810/DecathlonScoringSystem/refs/heads/master/decathlon.png)
+![Web UI Ranking View](https://raw.githubusercontent.com/FA810/DecathlonScoringSystem/refs/heads/master/webUI_ranking.png)
 
 
 ---
